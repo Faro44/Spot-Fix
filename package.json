@@ -1,0 +1,16 @@
+{
+  "name": "spotfix",
+  "version": "1.0.0",
+  "description": "Spot&Fix - Plataforma Institucional de Reporte y Gestión de Incidencias",
+  "scripts": {
+    "start": "npm --prefix mobile start",
+    "android": "npm --prefix mobile run android",
+    "ios": "npm --prefix mobile run ios",
+    "web": "npm --prefix mobile run web",
+    "typecheck": "npm --prefix mobile run typecheck"
+  },
+  "keywords": ["spotfix", "react-native", "expo", "incidents", "sqlite"],
+  "author": "Farid Rodrigo Vicaña Tenorio",
+  "license": "MIT"
+}
+
